@@ -1,0 +1,25 @@
+/* styles.css */
+.container {
+    margin: 20px;
+}
+
+.position-relative {
+    position: relative;
+}
+
+.w-100 {
+    width: 100%;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.bg-warning {
+    background-color: #ffc107; /* or any color you prefer */
+    color: #000; /* text color */
+}
+
+.fa-star {
+    /* Define your star icon styling here if needed */
+}

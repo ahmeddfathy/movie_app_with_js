@@ -1,0 +1,14 @@
+/* styles.css */
+.actorsDisplay {
+    text-align: center;
+    margin-top: 2rem;
+}
+
+.pagination .page-item {
+    cursor: pointer;
+}
+
+.page-link {
+    background-color: transparent;
+    color: white;
+}
